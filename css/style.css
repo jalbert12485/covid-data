@@ -1,0 +1,36 @@
+.nav-text{
+    color: white;
+    font-weight: bolder;
+}
+ul{
+    list-style-type: none;
+}
+
+.white-text{
+    color: white;
+}
+
+.COVID-modal{
+    position: relative;
+    top: -250px;
+    left: 25%;
+    border: 1px solid black;
+    width: fit-content;
+    padding: 10px;
+    background-color: darkgray;
+}
+
+
+.navbar{
+    background-color: #3D315B;
+}
+
+aside{
+    background-color: rgba(61, 49, 91, .5);
+}
+
+#input-error{
+    display: none;
+    color: white;
+}
+
